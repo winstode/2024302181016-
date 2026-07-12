@@ -1,0 +1,26 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[dumpfile] "C:/tmp/lab6-sim-run/source-pipe/pipe_test30.vcd"
+[dumpfile_mtime] 0
+[dumpfile_size] 934623
+[savefile] "C:/tmp/lab6-sim-run/source-pipe/pipe_test30.gtkw"
+[timestart] 0
+[size] 1200 800
+[pos] -1 -1
+*-4.000000 0 0 0 0 0 0 0 0 0
+pipe_test30_tb.clk
+pipe_test30_tb.rstn
+pipe_test30_tb.dut.PC
+pipe_test30_tb.dut.instr
+pipe_test30_tb.dut.MemWrite
+pipe_test30_tb.dut.dm_addr
+pipe_test30_tb.dut.dm_din
+pipe_test30_tb.dut.dm_dout
+pipe_test30_tb.dut.U_PIPECPU.ifid_inst
+pipe_test30_tb.dut.U_PIPECPU.ifid_pc
+pipe_test30_tb.dut.U_PIPECPU.idex_pc
+pipe_test30_tb.dut.U_PIPECPU.exmem_alu
+pipe_test30_tb.dut.U_PIPECPU.memwb_alu
+pipe_test30_tb.dut.U_PIPECPU.wb_wd
+pipe_test30_tb.dut.U_PIPECPU.load_use
+pipe_test30_tb.dut.U_PIPECPU.redirect

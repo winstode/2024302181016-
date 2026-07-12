@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[dumpfile] "C:/tmp/lab6-sim-run/source-sc/sc_test30.vcd"
+[dumpfile_mtime] 0
+[dumpfile_size] 435256
+[savefile] "C:/tmp/lab6-sim-run/source-sc/sc_test30.gtkw"
+[timestart] 0
+[size] 1200 800
+[pos] -1 -1
+*-4.000000 0 0 0 0 0 0 0 0 0
+sc_test30_tb.clk
+sc_test30_tb.rstn
+sc_test30_tb.dut.PC
+sc_test30_tb.dut.instr
+sc_test30_tb.dut.MemWrite
+sc_test30_tb.dut.dm_addr
+sc_test30_tb.dut.dm_din
+sc_test30_tb.dut.dm_dout
+sc_test30_tb.dut.U_SCCPU.RegWrite
+sc_test30_tb.dut.U_SCCPU.WD
+sc_test30_tb.dut.U_SCCPU.ALUOp
+sc_test30_tb.dut.U_SCCPU.aluout

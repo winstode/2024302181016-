@@ -1,0 +1,22 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[dumpfile] "C:/tmp/lab6-sim-run/source-sc/sc_official_sort.vcd"
+[dumpfile_mtime] 0
+[dumpfile_size] 1811471
+[savefile] "C:/tmp/lab6-sim-run/source-sc/sc_official_sort.gtkw"
+[timestart] 0
+[size] 1200 800
+[pos] -1 -1
+*-4.000000 0 0 0 0 0 0 0 0 0
+sc_official_sort_tb.clk
+sc_official_sort_tb.rstn
+sc_official_sort_tb.dut.PC
+sc_official_sort_tb.dut.instr
+sc_official_sort_tb.dut.sid_original
+sc_official_sort_tb.dut.sid_sorted
+sc_official_sort_tb.dut.MemWrite
+sc_official_sort_tb.dut.dm_addr
+sc_official_sort_tb.dut.dm_din
+sc_official_sort_tb.dut.U_SCCPU.RegWrite
+sc_official_sort_tb.dut.U_SCCPU.WD
+sc_official_sort_tb.dut.U_SCCPU.NPC
